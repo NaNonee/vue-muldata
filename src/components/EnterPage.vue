@@ -1,7 +1,7 @@
 
 <template>
   <div class="CopClass">
-    <h1>{{msg}}</h1>
+    <h1>{{msg}}用于测试</h1>
     <h2>Element UI button </h2>
     <el-button>默认按钮</el-button>
     <el-button type="primary">主要按钮</el-button>
